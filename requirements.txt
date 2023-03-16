@@ -1,5 +1,4 @@
 docx2txt==0.8
-fitz==0.0.1.dev2
 nltk==3.8.1
 numpy==1.24.2
 openai==0.26.5
